@@ -1,11 +1,21 @@
-<div align="center">
+Eventora Pakistan 🇵🇰
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern and professional event-management website built for Eventora Pakistan.
 
-  <h1>Built with AI Studio</h2>
+🌟 Overview
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Eventora Pakistan is an event-management platform designed to help users explore and submit event-related information through a clean, modern, and responsive website.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+The website includes a functional event form connected to Supabase, allowing submitted form data to be stored securely in the database.
 
-</div>
+✨ Features
+
+* Modern and responsive design
+* Mobile, tablet, and desktop support
+* Professional event-management interface
+* Event submission form
+* Form validation
+* Supabase database integration
+* Success and error notifications
+* Smooth animations and interactions
+* Clean and organized code structure

@@ -19,3 +19,4 @@ The website includes a functional event form connected to Supabase, allowing sub
 * Success and error notifications
 * Smooth animations and interactions
 * Clean and organized code structure
+   website link;  https://ai.studio/apps
